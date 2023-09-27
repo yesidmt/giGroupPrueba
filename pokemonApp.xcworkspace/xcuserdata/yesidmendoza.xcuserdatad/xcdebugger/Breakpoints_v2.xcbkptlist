@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "81942A2B-0677-4E64-AA7B-EB5F9AE34E82"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAF3F2F6-5C14-4370-8043-706C4DEBA1E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pokemonApp/Pokemon/Presenter/PokemonPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getDataPokemon()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A14330DE-BF60-4BBB-80C6-2572CE602D1C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pokemonApp/Pokemon/Interactor/PokemonInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getDataPokemon(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A14330DE-BF60-4BBB-80C6-2572CE602D1C - a873bec02212bf9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pokemonApp.PokemonInteractor.getDataPokemon(completion: (pokemonApp.Pokemon) -&gt; ()) -&gt; ()"
+                  moduleName = "pokemonApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yesidmendoza/Desktop/giGroup/pokemonApp/pokemonApp/Pokemon/Interactor/PokemonInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "A14330DE-BF60-4BBB-80C6-2572CE602D1C - 2c2436d40f0a5de5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;pokemonApp.Pokemon, Alamofire.AFError&gt;) -&gt; () in pokemonApp.PokemonInteractor.getDataPokemon(completion: (pokemonApp.Pokemon) -&gt; ()) -&gt; ()"
+                  moduleName = "pokemonApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yesidmendoza/Desktop/giGroup/pokemonApp/pokemonApp/Pokemon/Interactor/PokemonInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3D289B8-7ECF-4AC5-976C-392E90C1D6C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pokemonApp/Pokemon/Interactor/PokemonInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getDataPokemon(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "126A1559-C923-4300-A42E-521B2D72A0EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pokemonApp/Pokemon/Interactor/PokemonInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "getDataPokemon(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD63E959-47ED-4AA5-93FD-42DF249FF851"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pokemonApp/Pokemon/Interactor/PokemonInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getDataPokemon(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BD63E959-47ED-4AA5-93FD-42DF249FF851 - 2c2436d40f0a5cfc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;pokemonApp.Pokemon, Alamofire.AFError&gt;) -&gt; () in pokemonApp.PokemonInteractor.getDataPokemon(completion: (pokemonApp.Pokemon) -&gt; ()) -&gt; ()"
+                  moduleName = "pokemonApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yesidmendoza/Desktop/giGroup/pokemonApp/pokemonApp/Pokemon/Interactor/PokemonInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1016">
+               </Location>
+               <Location
+                  uuid = "BD63E959-47ED-4AA5-93FD-42DF249FF851 - 2c2436d40f0a5cfc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;pokemonApp.Pokemon, Alamofire.AFError&gt;) -&gt; () in pokemonApp.PokemonInteractor.getDataPokemon(completion: (pokemonApp.Pokemon) -&gt; ()) -&gt; ()"
+                  moduleName = "pokemonApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yesidmendoza/Desktop/giGroup/pokemonApp/pokemonApp/Pokemon/Interactor/PokemonInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1004">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
